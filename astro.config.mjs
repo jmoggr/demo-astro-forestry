@@ -12,4 +12,4 @@ export default {
     port: 8080, // The port to run the dev server on.
     // tailwindConfig: '', // Path to tailwind.config.js if used, e.g. './tailwind.config.js'
   },
-};
+}
